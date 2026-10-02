@@ -8,12 +8,12 @@
 
 **[前往最新版下载页](https://github.com/44886/BKShot/releases/latest)**
 
-当前 Windows 版本：**1.3.14**。
+当前 Windows 版本：**1.3.15**。
 
 | 下载项 | 适用情况 |
 | --- | --- |
-| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.14/BKShot-1.3.14-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
-| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.14/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
+| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.15/BKShot-1.3.15-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
+| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.15/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
 
 Windows 10 / 11，x64。安装至当前用户目录，无需管理员权限，也无需另装 .NET。便携版请保留完整目录，放在有写入权限的位置。
 
@@ -29,6 +29,10 @@ Windows 包目前未代码签名。macOS 版本正在准备，尚未完成实机
 绿色的「复制截图」按钮位于工具条最右侧。复制保持原始尺寸与无损像素，大图的剪贴板编码在后台完成。
 
 关闭编辑器后仍保持托盘常驻；完全退出请使用托盘菜单中的「退出 BKShot」。
+
+开机启动默认关闭。在「设置 → 常规」中勾选「登录系统后自动启动 BKShot」并保存，下次登录系统时自动驻留托盘；取消勾选并保存即可关闭。启动项使用固定启动器，自动更新后继续有效。便携版启用后请保持目录位置，移动目录后重新保存设置。
+
+本版安装包注册卸载时的启动项清理规则。仅从旧安装版原位更新的用户，卸载前请先关闭开机启动，或运行本版安装包覆盖安装。
 
 ## 快捷键
 
