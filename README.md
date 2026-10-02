@@ -8,16 +8,16 @@
 
 **[前往最新版下载页](https://github.com/44886/BKShot/releases/latest)**
 
-当前 Windows 版本：**1.3.16**。
+当前 Windows 版本：**1.3.17**。
 
 | 下载项 | 适用情况 |
 | --- | --- |
-| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.16/BKShot-1.3.16-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
-| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.16/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
+| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.17/BKShot-1.3.17-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
+| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.17/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
 
 Windows 10 / 11，x64。安装至当前用户目录，无需管理员权限，也无需另装 .NET。便携版请保留完整目录，放在有写入权限的位置。
 
-Windows 包目前未代码签名。macOS 版本正在准备，尚未完成实机验证、Developer ID 签名和公证，暂未提供正式 Mac 安装包。
+Windows 主程序、安装包和卸载程序已使用「重庆灵感力科技有限公司」的企业代码签名证书签名，采用 SHA-256 与可信时间戳。第三方启动器、更新器和运行库保留原有签名状态。macOS 版本正在准备，尚未完成实机验证、Developer ID 签名和公证，暂未提供正式 Mac 安装包。
 
 ## 开始使用
 
