@@ -8,12 +8,12 @@
 
 **[前往最新版下载页](https://github.com/44886/BKShot/releases/latest)**
 
-当前 Windows 版本：**1.3.13**。
+当前 Windows 版本：**1.3.14**。
 
 | 下载项 | 适用情况 |
 | --- | --- |
-| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.13/BKShot-1.3.13-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
-| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.13/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
+| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.14/BKShot-1.3.14-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
+| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.14/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
 
 Windows 10 / 11，x64。安装至当前用户目录，无需管理员权限，也无需另装 .NET。便携版请保留完整目录，放在有写入权限的位置。
 
@@ -25,6 +25,8 @@ Windows 包目前未代码签名。macOS 版本正在准备，尚未完成实机
 2. 按截图快捷键，拖动框选区域；也可悬停窗口或可识别的控件并单击选取。
 3. 框选后直接使用浮动工具条标注。拖动边缘、四角可再次调整范围；选择模式下拖动空白处可移动选区。
 4. 完成后复制、保存、贴图，或送到高级编辑器继续整理。
+
+绿色的「复制截图」按钮位于工具条最右侧。复制保持原始尺寸与无损像素，大图的剪贴板编码在后台完成。
 
 关闭编辑器后仍保持托盘常驻；完全退出请使用托盘菜单中的「退出 BKShot」。
 
