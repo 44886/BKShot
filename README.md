@@ -8,12 +8,12 @@
 
 **[前往最新版下载页](https://github.com/44886/BKShot/releases/latest)**
 
-当前 Windows 版本：**1.3.28**。
+当前 Windows 版本：**1.3.29**。
 
 | 下载项 | 适用情况 |
 | --- | --- |
-| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.28/BKShot-1.3.28-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
-| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.28/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
+| [Windows 安装版](https://github.com/44886/BKShot/releases/download/v1.3.29/BKShot-1.3.29-win-x64-Setup.exe) | 推荐。运行安装向导，安装后从开始菜单启动 BKShot |
+| [Windows 便携版](https://github.com/44886/BKShot/releases/download/v1.3.29/BKShot-win-x64-Portable.zip) | 解压整个目录，运行根目录的 `BKShot.exe` |
 
 Windows 10 / 11，x64。安装至当前用户目录，无需管理员权限，也无需另装 .NET。便携版请保留完整目录，放在有写入权限的位置。
 
