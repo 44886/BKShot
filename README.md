@@ -4,7 +4,7 @@
 
 BKShot 由不坑老师制作，日常驻留系统托盘。快捷键框选后即可加框、画箭头、写步骤、打码、复制或保存；高级编辑支持多图排版。适合软件教程、操作演示、问题反馈、文档配图与内容创作。
 
-[下载安装包 · 1.3.66](https://github.com/44886/BKShot/releases/download/v1.3.66/BKShot-1.3.66-win-x64-Setup.exe) · [下载便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新说明](https://github.com/44886/BKShot/releases)
+[下载安装包 · 1.3.67](https://github.com/44886/BKShot/releases/download/v1.3.67/BKShot-1.3.67-win-x64-Setup.exe) · [下载便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新说明](https://github.com/44886/BKShot/releases)
 
 当前发行版本支持 Windows 10 / Windows 11 x64。商店版本随审核进度更新。
 
@@ -155,7 +155,7 @@ BKShot 由不坑老师制作，日常驻留系统托盘。快捷键框选后即�
 - 点击快捷键输入框直接按键，支持 F1、PrintScreen 等单键及组合键，检查重复与占用。
 - 首次启动显示教程，帮助找到托盘入口和常用操作。
 - 可选截图历史：预览、复制、贴图、编辑、另存、删除、清空及保留数量设置。
-- 检查更新，可选择 GitHub 更新或打开微软商店；支持下载进度、取消和重试。
+- 检查更新，支持国内下载通道，也可打开 GitHub 下载页或微软商店；支持下载进度、取消和重试。
 - 采集期间托盘提供结束并保存、取消的备用入口。
 
 ## 常用快捷键
