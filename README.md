@@ -2,7 +2,7 @@
 
 截图、标注、局部放大、录 GIF、录屏、屏幕演示、文字识别与截图翻译。
 
-[下载安装包 · 1.3.81](https://github.com/44886/BKShot/releases/download/v1.3.81/BKShot-1.3.81-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
+[下载安装包 · 1.4.15](https://github.com/44886/BKShot/releases/download/v1.4.15/BKShot-1.4.15-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
 
 当前发行版支持 Windows 10 / Windows 11 x64。商店版本随审核进度更新。
 
@@ -11,6 +11,7 @@
 - 快捷键或托盘启动，框选后原位标注、复制、保存、贴图或进入高级编辑。
 - 悬停选取窗口和可识别控件，滚轮切换层级，也可自由框选。
 - 框选后继续拖动四边、四角或整个选区，调整范围和位置。
+- 在选区外的遮罩区域点击右键即可取消截图。
 - 指针旁显示像素放大镜、坐标和颜色，支持高分辨率、系统缩放与多显示器。
 
 ## ✅ 标注与手写
@@ -20,7 +21,7 @@
 | 矩形、椭圆、正圆 | 框出重点，设置边线颜色、粗细、线型及矩形圆角 |
 | 自由画笔 | 自由圈画、移动、缩放和旋转 |
 | 手写笔 | 平滑笔迹、粗细变化与起收笔锋，适合批注和演示书写 |
-| 荧光笔 | 半透明涂画突出重点 |
+| 荧光笔 | 自由涂画或拖选矩形，半透明高亮突出重点 |
 | 箭头 | 经典线、渐粗、实心粗、空心、双向和折线六种样式 |
 | 文字 | 直接输入，选择字体、字号、颜色、描边和旋转角度 |
 | 步骤编号与说明 | 编号搭配文字，制作操作步骤图 |
@@ -33,6 +34,7 @@
 - 自由画笔和荧光笔按住 Shift 可画水平、垂直直线。
 - 文字框随内容增长，拖动四角调整字号；`Enter` 完成，`Ctrl+Enter` 换行。
 - 支持撤销、重做，记住各工具的颜色、粗细、字体、样式和下拉选项。
+- 悬停任意滑块可用滚轮调节；字号等数字框聚焦后也支持滚轮调值。
 
 ## ✅ 配套说明图风格
 
