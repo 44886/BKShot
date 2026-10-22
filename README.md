@@ -2,7 +2,7 @@
 
 截图、标注、局部放大、录 GIF、录屏、屏幕演示、文字识别与截图翻译。
 
-[下载安装包 · 1.4.15](https://github.com/44886/BKShot/releases/download/v1.4.15/BKShot-1.4.15-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
+[下载安装包 · 1.4.16](https://github.com/44886/BKShot/releases/download/v1.4.16/BKShot-1.4.16-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
 
 当前发行版支持 Windows 10 / Windows 11 x64。商店版本随审核进度更新。
 
