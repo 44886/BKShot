@@ -2,7 +2,7 @@
 
 截图、标注、局部放大、录 GIF、录屏、屏幕演示、文字识别与截图翻译。
 
-[下载安装包 · 1.4.19](https://github.com/44886/BKShot/releases/download/v1.4.19/BKShot-1.4.19-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
+[下载安装包 · 1.4.22](https://github.com/44886/BKShot/releases/download/v1.4.22/BKShot-1.4.22-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
 
 当前发行版支持 Windows 10 / Windows 11 x64。商店版本随审核进度更新。
 
@@ -94,6 +94,8 @@
 ## ✅ 高级编辑与多图排版
 
 - 添加截图或本地图片，移动、缩放、旋转、裁切，设置图片圆角、边线与阴影。
+- 图片校正与滤镜独立使用：校正纸张边缘、透视和文字倾斜后，可直接继续选择滤镜。
+- 13 种滤镜支持强度调整；彩色增强清理纸面灰底与阴影，同时保护彩色内容，普通图片也可使用。
 - 一键设置常用画布比例，调整宽高，拖动四边和角点改变画布范围。
 - 图层显示／隐藏、锁定、置顶／置底，多选、全选、复制粘贴、生成副本。
 - 导入多张图片，调整顺序后拼接。
