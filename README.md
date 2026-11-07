@@ -2,7 +2,7 @@
 
 截图、标注、局部放大、录 GIF、录屏、屏幕演示、文字识别与截图翻译。
 
-[下载安装包 · 1.4.23](https://github.com/44886/BKShot/releases/download/v1.4.23/BKShot-1.4.23-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
+[下载安装包 · 1.4.24](https://github.com/44886/BKShot/releases/download/v1.4.24/BKShot-1.4.24-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
 
 当前发行版支持 Windows 10 / Windows 11 x64。商店版本随审核进度更新。
 
@@ -33,7 +33,7 @@
 - 直接拖动控制点调整尺寸、旋转、箭头端点、曲度和转折位置。
 - 支持实线、虚线、点线和点划线；旋转时按 Shift 可按 15° 对齐。
 - 自由画笔和荧光笔按住 Shift 可画水平、垂直直线。
-- 文字框随内容增长，拖动四角调整字号；`Enter` 完成，`Ctrl+Enter` 换行。
+- 文字框随内容增长，拖动四角调整字号；`Enter` 换行，`Ctrl+Enter` 完成编辑（Mac 使用 `⌘Enter`）。
 - 支持撤销、重做，记住各工具的颜色、粗细、字体、样式和下拉选项。
 - 悬停任意滑块可用滚轮调节；字号等数字框聚焦后也支持滚轮调值。
 
@@ -93,6 +93,7 @@
 
 ## ✅ 高级编辑与多图排版
 
+- 浅色编辑界面，常用工具和复制入口直接可见；添加或选择标注时自动切换到属性面板。
 - 添加截图或本地图片，移动、缩放、旋转、裁切，设置图片圆角、边线与阴影。
 - 图片校正与滤镜独立使用：校正纸张边缘、透视和文字倾斜后，可直接继续选择滤镜。
 - 13 种滤镜支持强度调整；彩色增强清理纸面灰底与阴影，同时保护彩色内容，普通图片也可使用。
@@ -100,7 +101,9 @@
 - 图层显示／隐藏、锁定、置顶／置底，多选、全选、复制粘贴、生成副本。
 - 导入多张图片，调整顺序后拼接。
 - 保存可编辑项目，之后继续修改。
-- 新截图或长截图按图片尺寸建立新画布。
+- 新截图适配标准画布或上次手动设定的尺寸，保留高清原图；连续截图在下方依次追加。
+- 复制和导出默认按画布尺寸，选择放大倍率时直接从原图与标注渲染。
+- 一键成图提供 18 种模板，包括杂志封面、前后对比、分步教程、批注精读、推荐清单和灵感拼贴；生成后文字与对象仍可编辑。
 
 ## ✅ 置顶贴图、取色与二维码
 
