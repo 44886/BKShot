@@ -2,7 +2,7 @@
 
 截图、标注、局部放大、录 GIF、录屏、屏幕演示、文字识别与截图翻译。
 
-[下载安装包 · 1.4.24](https://github.com/44886/BKShot/releases/download/v1.4.24/BKShot-1.4.24-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
+[下载安装包 · 1.4.36](https://github.com/44886/BKShot/releases/download/v1.4.36/BKShot-1.4.36-win-x64-Setup.exe) · [便携版](https://github.com/44886/BKShot/releases/latest/download/BKShot-win-x64-Portable.zip) · [微软应用商店](https://apps.microsoft.com/store/detail/XP8LNLSW2085Z8) · [更新记录](https://github.com/44886/BKShot/releases)
 
 当前发行版支持 Windows 10 / Windows 11 x64。商店版本随审核进度更新。
 
@@ -68,8 +68,11 @@
 - **MP4 视频**：设置画质、15 / 30 FPS、是否录入鼠标光标。
 - 声音可选静音、系统声音、麦克风或混合录音。
 - H.264 与 HEVC（H.265）可选，支持设备上可录制原尺寸 5K 区域。
-- Windows 智能缩放根据鼠标点击聚焦，平稳取景；工具条滑块设置 1×～3× 最大倍率，1× 关闭，支持保存原片。
-- 记住录制参数，结束后按保存设置输出。
+- 摄像头在录制工具条内预览，麦克风与系统声音分别设置并显示电平。
+- 屏幕、摄像头与鼠标轨迹按同一录制会话保存；智能缩放在剪辑时添加。
+- 录制结束停留在工具条，可直接保存视频，或进入编辑。
+- 视频编辑器目前仅向后台开通资格的指定账号内测，支持横竖版独立取景、摄像头布局、字幕及音画处理；普通录屏和直接保存不受此限制。
+- 本版沿用原生媒体后端，尚未包含 FFmpeg 按需组件。
 
 ## ✅ 纵向与横向长截图
 
